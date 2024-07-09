@@ -1,0 +1,1 @@
+export { ordersData } from './data';
